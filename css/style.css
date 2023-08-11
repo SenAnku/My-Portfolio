@@ -1,0 +1,42 @@
+h1 {
+    color: rgb(194, 155, 149);
+    font-size: 100px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+body{
+    background-image: url(imgcarbon.jpg);
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+
+h2{
+    color: beige;
+    
+}
+
+h3 {
+    color: beige;
+
+}
+
+p {
+    color: beige;
+}
+
+.imgMain {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h4 {
+    color: beige;
+}
+
+.myvideo {
+
+    background-position: center;
+}
